@@ -27,3 +27,10 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+
+
+
+//https://developer.mozilla.org/en-US/docs/Web/API/Window/alert//  //aler mdn documanation//
+
+//https://tc39.es/ecma262/#sec-intro// //orginal js script documantation// 
